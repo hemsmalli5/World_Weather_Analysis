@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+config.ipynb
+config.py
+citipy-0.0.5-py3-none-any.whl
+try-except.ipynb
+API_Practice.ipynb
+untitle.ipynb
